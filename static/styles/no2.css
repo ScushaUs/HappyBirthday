@@ -11,7 +11,7 @@
           .snowExample  {
             overflow: hidden;
           position: absolute; 
-          top: -700px;
+          top: -70%;
           opacity: 1; 
           text-align: center;
           animation: SnowExampleSlide ease-in infinite;
