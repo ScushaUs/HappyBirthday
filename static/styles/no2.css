@@ -20,6 +20,6 @@
           -webkit-animation-fill-mode: forwards;
           -moz-animation-fill-mode: forwards;
           animation-fill-mode: forwards;}
-          @keyframes SnowExampleSlide {from {position: absolute; top: -40%;} to {position: absolute; top: 120%;}}
-          @-webkit-keyframes SnowExampleSlide {from {position: absolute; top: -200px;} to {position: absolute; top: 120%;}}
-          @-moz-keyframes SnowExampleSlide {from {position: absolute; top: -200px;} to {position: absolute; top: 120%;}}
+          @keyframes SnowExampleSlide {from {position: absolute; top: -40%;} to {position: absolute; top: 150%;}}
+          @-webkit-keyframes SnowExampleSlide {from {position: absolute; top: -200px;} to {position: absolute; top: 150%;}}
+          @-moz-keyframes SnowExampleSlide {from {position: absolute; top: -200px;} to {position: absolute; top: 150%;}}
